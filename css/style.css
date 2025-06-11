@@ -4,6 +4,7 @@ body {
   font-style: normal;
 }
 
-h1 {
+h1,
+h2 {
   color: rgb(229, 49, 112);
 }
