@@ -41,7 +41,7 @@ const cardContainer = document.getElementById("cards-container");
 
 for (const teamMember of teamMembers) {
   cardContainer.innerHTML += `
-    <div class="col-4">
+    <div class="col-12 col-md-6 col-xl-4">
           <div class="border-0 card bg-black flex-row">
             <img
               class="rounded-start"
